@@ -1,1 +1,1 @@
-var helpContexts = [{"appname":"", "appid":"t-bagels", "path":"t-recipeone.html"},{"appname":"", "appid":"t-smoothie", "path":"t-recipetwo.html"},{"appname":"", "appid":"task_drg_vhs_lz", "path":"t-recipethree.html"},{"appname":"", "appid":"Hashbrowns", "path":"t-recipefour.html"}]
+var helpContexts = [{"appname":"", "appid":"c-breakfast", "path":"c-breakfast.html"},{"appname":"", "appid":"t-hash", "path":"t-recipeone.html"}]

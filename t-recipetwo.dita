@@ -4,15 +4,14 @@
     <title>Kale and Strawberry Smoothie</title>
     <shortdesc>This smoothie is an easy breakfast that is full of all your essential nutrients for
         the day. The healthy greens are hardly noticeable with the addition of naturally sweet
-        fruits. </shortdesc>
+        fruits. This is a great breakfast to make in a rush or to enjoy in the house on a slow morning. </shortdesc>
     <taskbody>
-        <prereq>For this recipe you will need a blender. The following ingredients will also be
-            needed? <ul>
+        <prereq>For this recipe you will need a blender and a measuring cup. The following ingredients will be needed <ul>
                 <li audience="armando">1 cup coconut milk</li>
-                <li audience="mom">1 cup milk</li>
+                <li audience="mom">1 cup whole milk milk</li>
                 <li>1/2 cup washed and dried kale leaves</li>
-                <li>1 whole banana</li>
-                <li>1/d cup frozen strawberries</li>
+                <li>1 whole banana, peeled</li>
+                <li>1/2 cup frozen strawberries</li>
                 <li audience="armando">1 scoop vegan protein powder</li>
                 <li audience="mom">1 scoop whey protein powder</li>
             </ul>
@@ -27,25 +26,29 @@
         </context>
         <steps>
             <step>
-                <cmd>Add all ingredients to the blender.</cmd>
+                <cmd>Add all ingredients to the blender. </cmd>
                 <info>
-                    <note type="caution">Be sure that the blender is unplugged and in an "off"
+                    <note type="caution">Be sure that the blender is unplugged and in the "off"
                         position while adding ingredients. </note>
                 </info>
             </step>
             <step>
                 <cmd>Blend on a the highest speed for 30 seconds then switch blender off</cmd>
+                <info> 
+                <note> If the smoothie seems too thick for your desired consistency, add 1/4 more
+                        milk, close the lid and blend for 15 more seconds</note>
+                </info>
             </step>
             <step>
                 <cmd>Remove lid and pour the smoothie into a glass</cmd>
                 <info>
-                    <note type="caution"/>
+                    <note type="caution">The blender will be full of heavy liquid, so pour slowly and carefully </note>
                 </info>
             </step>
             <step>
                 <cmd>Pour smoothie into glass</cmd>
             </step>
         </steps>
-        <result id="result_otl_z5s_lz"><image href="smoothie.jpg" id="image_wql_cvs_lz"/></result>
+        <result> The smoothie should be chilled and have a thick consistency without being too runny. It will stay fresh for an hour after preparation </result>
     </taskbody>
 </task>

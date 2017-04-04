@@ -4,9 +4,9 @@
  <title>Mom's Recipe Guide</title>
  
  
- <topicref href="c-breakfast.dita"/>
+ <topicref href="c-breakfast.dita" navtitle="Welcome"/>
  
- <topichead navtitle="Side Dishe">
+ <topichead navtitle="Side Dishes">
   <topicref href="t-recipeone.dita" navtitle="Hearty Hash"/>
  </topichead>
 
