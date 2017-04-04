@@ -1,0 +1,5 @@
+fil = new Array();
+fil["0"]= "t-recipefour.html@@@Cauliflower Hash Browns@@@This twist on the classic potato hash browns will leave you feeling healthier while still fueling your day full of energy. The addition of cauliflowr is unique and delicious,\n        but doesn&apos;t take away from the heartiness of the classic hash browns...";
+fil["1"]= "t-recipeone.html@@@Bagles@@@A warm and toasty bagel is a great platform to get creative and build a hearty breakfast. A bagel is easy to take on your commute during busy days, or to enjoy inside the apartment on slow mornings...";
+fil["2"]= "t-recipethree.html@@@Scrambled Eggs@@@Fluffy scrabmled eggs are a filling breakfast that can be modified to every individual taste preference. This omlette recipe is a classic that will be sure to energeize anyone in the morning...";
+fil["3"]= "t-recipetwo.html@@@Kale and Strawberry Smoothie@@@This smoothie is an easy breakfast that is full of all your essential nutrients for the day. The healthy greens are hardly noticeable with the addition of naturally sweet fruits...";

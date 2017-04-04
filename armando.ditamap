@@ -3,12 +3,10 @@
 <map audience="armando">
  <title> Vegan Breakfast Recipes</title>
   <topichead navtitle="Breakfast Recipes">
-   <topicref href="nachos.dita" navtitle="Nachos"/>
-   <topicref href="dip.dita" navtitle="Spinach Dip"/>
+   <topicref href="c-breakfast.dita" navtitle= "About"/>
+   <topicref href="t-recipeone.dita" navtitle="Bagels"/>
+   <topicref href="t-recipetwo.dita" navtitle="Smoothie"/>
+   <topicref href="t-recipethree.dita" navtitle="Scrambled Eggs"/>
+   <topicref href="t-recipefour.dita" navtitle="Hash Browns"/>
   </topichead>
-  <topichead navtitle="Drinks">
-   <topicref href="oj.dita" navtitle="Orange Juice"/>
-   <topicref href="milk.dita" navtitle="Skim Milk"/>
-  </topichead>
-  
 </map>

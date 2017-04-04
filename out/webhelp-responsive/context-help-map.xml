@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="" path="nachos.html"/>
-   <appContext helpID="" path="dip.html"/>
-   <appContext helpID="" path="oj.html"/>
-   <appContext helpID="" path="milk.html"/>
+   <appContext helpID="t-bagels" path="t-recipeone.html"/>
+   <appContext helpID="t-smoothie" path="t-recipetwo.html"/>
+   <appContext helpID="task_drg_vhs_lz" path="t-recipethree.html"/>
+   <appContext helpID="Hashbrowns" path="t-recipefour.html"/>
 </map>

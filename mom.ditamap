@@ -3,6 +3,7 @@
 <map audience="mom">
  <title>Mom's Breakfast Recipes</title>
  <topichead navtitle="Breakfast Recipes">
+  <topicref href="c-breakfast.dita" navtitle= "About"/>
   <topicref href="t-recipeone.dita" navtitle="Bagels"/>
   <topicref href="t-recipetwo.dita" navtitle="Smoothie"/>
   <topicref href="t-recipethree.dita" navtitle="Scrambled Eggs"/>
