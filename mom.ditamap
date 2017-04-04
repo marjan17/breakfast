@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
- <title/>
+<map audience="mom">
+ <title>Mom's Breakfast Recipes</title>
+ <topichead navtitle="Breakfast Recipes">
+  <topicref href="t-recipeone.dita" navtitle="Bagels"/>
+  <topicref href="t-recipetwo.dita" navtitle="Smoothie"/>
+  <topicref href="t-recipethree.dita" navtitle="Scrambled Eggs"/>
+  <topicref href="t-recipefour.dita" navtitle="Hash Browns"/>
+ </topichead>
 </map>

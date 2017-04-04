@@ -2,8 +2,14 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c-breakfast">
  <title>Breakfast Recipes</title>
- <shortdesc> The following recipes will provide you with an energetic start to you day that will leave you satisfied until lunch!</shortdesc>
+ <shortdesc> Welcome to breakfast at Marjan's! Today I have left a set of recipes for you to follow,
+  so that your experience this weekend is that much more easy and relaxing. The following recipes
+  will provide you with an energetic start to your day that will leave you satisfied until lunch!
+  After you have enjoyed your breakfasts, a clean-up guide can be found to help with the little or
+  big messes you may have made in your breakfast adventures. A troubleshooting and reference guide
+  have been included for your convenience. </shortdesc>
  <conbody>
-  <p></p>
+  <image href="breakfast-in-bed0-752x501.jpg" id="image_lky_sgs_lz"/>
+  <p/>
  </conbody>
 </concept>

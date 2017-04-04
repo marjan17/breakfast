@@ -26,7 +26,9 @@ In case you haven't spent a lot of time in the kitchen lately, or you're just ne
 
 **Fridge**- milk, eggs, butter, tofu, vegetables, fruits, 
 
-**Spice Rack**- pepper, salt, herbs 
+**Spice Rack**- pepper, salt, herbs,
 
-**Pantry**- bagels
+**Pantry**- bagels, potatoes, protein powder 
+
+
 

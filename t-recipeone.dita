@@ -1,18 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_o1t_kjs_lz">
-    <title>Bagels</title>
-    <shortdesc>A warm and totasty bagel is a great platform to get creative a build a heart
-        breakfast. A breakfast bagel is easy to take on your commute during busy days, or to enjoy
-        inside the apartment on slow mornings. </shortdesc>
+<task id="t-bagels">
+    <title>Bagles </title>
+    <shortdesc> A warm and toasty bagel is a great platform to get creative and build a hearty
+        breakfast. A bagel is easy to take on your commute during busy days, or to enjoy inside the
+        apartment on slow mornings. .<image href="bagel.jpg" id="image_afd_lts_lz"/></shortdesc>
     <taskbody>
+        <prereq> This recipe requires a skillet, a toaster and a knife. The following ingredients
+            will also be needed: <ul>
+                <li>3 slices smoked salmon, chilled</li>
+                <li audience="armando">3-4 tomoato slices cut into halves</li>
+                <li audience="armando">1 tablespoon of hummus </li>
+                <li>1 green bell pepper, thinly sliced</li>
+                <li>1 teaspoon vegetable oil</li>
+                <li>1 tablespoon cream cheese</li>
+                <li>1 lemon, halved</li>
+                <li id="saltpepper">Salt and papper to taste</li>
+                <li>1 whole wheat bagel, sliced and toasted</li>
+            </ul>
+        </prereq>
         <context>
-            <p></p>
+            <ul>
+                <li>Prep time: 10 minutes</li>
+                <li>Assembly time: 5 minutes</li>
+                <li>Serves: 1</li>
+            </ul>
+            <p>Directions:</p>
         </context>
         <steps>
-            <step>
-                <cmd></cmd>
+            <step audience="armando">
+                <cmd>Heat the oil in a large skillet over medium-high heat. </cmd>
             </step>
-        </steps>
+            <step>
+                <cmd>Add the sliced bell pepper with salt and pepper to taste. Stir the bell peppers
+                    occaisionally and allow to cook for 5-10 minutes to cook</cmd>
+                <substeps id="substeps_vzn_crs_lz">
+                    <substep>
+                        <cmd>Drain the bell peppers of any excess oil after cooking is complete
+                        </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Allow bell peppers to cool before assembling with the bagel</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Toast the sliced bagel in the toaster for two minutes or until golden brown </cmd>
+            </step>
+            <step>
+                <cmd>To assemble, spread each side of the bagel with cream cheese and top with the
+                    cooked bell peppers and smoked salmon</cmd>
+            </step>
+            <step>
+                <cmd audience="armando"> To assemlbe, spread each side of the bagel with hummus and top with the cooked bell peppers and sliced tomatos</cmd>
+            </step>
+            
+            <step>
+                <cmd>Squeeze lemon over the bagel</cmd>
+            </step>
+            <step>
+                <cmd>Serve immediately</cmd>
+                <stepresult audience="armando">
+                </stepresult>
+            </step>
+        </steps>  
+        <postreq></postreq>
     </taskbody>
 </task>

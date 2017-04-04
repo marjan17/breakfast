@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
 <topic id="topic_u1y_hnq_kz">
-  <title></title>
+  <title>Recipe References</title>
+  <shortdesc>The recipes provided have been modified for each user. To learn more about the recipes
+    used in today's breafast guide, visit the following links below: <image href="recipes.jpg"
+    /></shortdesc>
   <body>
-    <p></p>
+    <p>Scrambled Eggs: <xref href="http://www.incredibleegg.org/recipe/basic-scrambled-eggs/"
+        format="html" scope="external"/></p>
+    <p>Smoothie:<xref href="http://www.builtlean.com/2012/12/19/kale-smoothie-recipe/" format="html"
+        scope="external"/></p>
+    <p>Cauliflower Hashbrowns: <xref
+        href="http://www.delish.com/cooking/recipe-ideas/recipes/a52085/cauliflower-hash-browns-recipes/"
+        format="html" scope="external"/></p>
+    <p>Bagels: <xref href="http://www.myrecipes.com/recipe/cream-cheese-smoked-salmon-bagel"
+        format="html" scope="external"/></p>
   </body>
 </topic>

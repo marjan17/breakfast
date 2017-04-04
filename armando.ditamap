@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map audience="armando">
- <title/>
+ <title> Vegan Breakfast Recipes</title>
+  <topichead navtitle="Breakfast Recipes">
+   <topicref href="nachos.dita" navtitle="Nachos"/>
+   <topicref href="dip.dita" navtitle="Spinach Dip"/>
+  </topichead>
+  <topichead navtitle="Drinks">
+   <topicref href="oj.dita" navtitle="Orange Juice"/>
+   <topicref href="milk.dita" navtitle="Skim Milk"/>
+  </topichead>
+  
 </map>
