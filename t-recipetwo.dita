@@ -4,9 +4,10 @@
     <title>Kale and Strawberry Smoothie</title>
     <shortdesc>This smoothie is an easy breakfast that is full of all your essential nutrients for
         the day. The healthy greens are hardly noticeable with the addition of naturally sweet
-        fruits. This is a great breakfast to make in a rush or to enjoy in the house on a slow morning. </shortdesc>
+        fruits. This is a great breakfast to make in a rush or to enjoy in the house on a slow
+        morning. <image href="smoothie.jpg" id="image_d43_4qw_lz"/></shortdesc>
     <taskbody>
-        <prereq>For this recipe you will need a blender and a measuring cup. The following ingredients will be needed <ul>
+        <prereq>Tools for this recipe include a blender and a measuring cup. The following ingredients will be needed <ul>
                 <li audience="armando">1 cup coconut milk</li>
                 <li audience="mom">1 cup whole milk milk</li>
                 <li>1/2 cup washed and dried kale leaves</li>

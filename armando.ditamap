@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map audience="armando">
- <title> Vegan Breakfast Recipes</title>
-  <topichead navtitle="Breakfast Recipes">
-   <topicref href="c-breakfast.dita" navtitle= "About"/>
-   <topicref href="t-recipeone.dita" navtitle="Bagels"/>
-   <topicref href="t-recipetwo.dita" navtitle="Smoothie"/>
-   <topicref href="t-recipethree.dita" navtitle="Scrambled Eggs"/>
-   <topicref href="t-recipefour.dita" navtitle="Hash Browns"/>
-  </topichead>
+ <title>Armando's Recipe Guide</title>
+ 
+ <topicref href="c-breakfast.dita" navtitle="Welcome"/>
+ 
+ <topichead navtitle="Side Dish">
+  <topicref href="t-recipeone.dita" navtitle="Hearty Breakfast Hash"/>
+ </topichead>
+ 
+ <topichead navtitle="Main Dishes">
+  <topicref href="t-recipethree.dita" navtitle="Southwest Breakfast Wraps"></topicref>
+  <topicref href="t-recipefour.dita" navtitle="Crispy Quinoa Cakes"></topicref>
+ </topichead>
+ 
+ <topichead navtitle="Beverages">
+  <topicref href="t-recipetwo.dita" navtitle="Kale and Strawberry Smoothie"></topicref>
+  <topicref href="t-chai.dita" navtitle="Chai Latte"></topicref>
+ </topichead>
+
+ <topichead navtitle="References">
+  <topicref href="t-references.dita" navtitle="Recipe Sources"></topicref>
+ </topichead>
+ 
+ <topichead navtitle="Cleaning">
+  <topicref href="t-clean.md" navtitle="Clean-up"></topicref>
+ </topichead>
+ 
+ 
 </map>

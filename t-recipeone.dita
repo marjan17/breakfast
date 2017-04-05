@@ -6,7 +6,7 @@
         and tastes to satisfy any morning hunger. Ingredients are easily interchangeable, making
         this recipe fun and dynamic.<image href="hash.jpg" id="image_tzw_jdw_lz"/></shortdesc>
     <taskbody>
-        <prereq>Tools for this recipe include a mixing bowl,a large skillet, a knife, a measuring cup and a spatula. The following ingredients will be needed: <ul>
+        <prereq>Tools for this recipe include a mixing bowl, a large skillet, a knife, a measuring cup, measuring spoons and a spatula. The following ingredients will be needed: <ul>
             <li audience="mom">1/4 cup ham, diced</li>
             <li audience="mom"> 1 egg</li>
             <li audience="armando"> 1/4 cup white button mushrooms, washed and sliced</li>
@@ -18,7 +18,7 @@
             <li> 1 cup of frozen corn, defrosted</li>
             <li> 1/4 cup vegetable oil</li>
             <li> 3 tablespoons chopped parsley</li>
-            <li> 1 lemon, washed and sliced in half</li>
+            <li id="lemon"> 1 lemon washed and sliced in half</li>
             <li id="saltpepper"> Salt and black pepper to taste</li>
         </ul>
         </prereq>
@@ -35,13 +35,13 @@
                 <cmd>Heat vegetable oil in a skillet on medium heat</cmd>
             </step>
             <step audience="mom">
-                <cmd>In a mixing bowl, stir together the grated potatoes, chopped red onion, chopped bell pepper, minced garlic, defrosted corn, salt and pepper and ham.</cmd>
+                <cmd>In a mixing bowl, stir together the diced potatoes, chopped red onion, chopped bell pepper, minced garlic, defrosted corn, salt,  pepper and ham.</cmd>
             </step>
             <step audience="armando">
-                <cmd>In a mixing bowl, stir together the grated potatoes, chopped red onion, chopped bell pepper, minced garlic, defrosted corn, salt and pepper and mushrooms.</cmd>
+                <cmd>In a mixing bowl, stir together the diced potatoes, chopped red onion, chopped bell pepper, minced garlic, defrosted corn, salt, pepper and mushrooms.</cmd>
             </step>
             <step>
-                <cmd>Add the mixture to the heated pan and saute for 15 minutes over medium heat, stirring occasionally</cmd>
+                <cmd>Add the mixture to the heated pan and sauté for 15 minutes over medium heat, stirring occasionally</cmd>
             </step>
             <step>
                 <cmd>Reduce the heat to low and sprinkle the parsley over the mixture and squeeze in desired amount of lemon juice </cmd> 
@@ -56,8 +56,8 @@
                 <cmd>Turn off the stove and take skillet off heat</cmd>
             </step>
         </steps>
-        <result>You will be left with a coloful hash, packed with nutritional ingredients and many
+        <result>You will be left with a colorful hash, packed with nutritional ingredients and many
             textures.</result>
-        <postreq>This recipe serves many people. Leftovers can be stored in tupperware containers and will remain fresh for one week</postreq>
+        <postreq>This recipe serves many people. Leftovers can be stored in Tupperware containers and will remain fresh for one week</postreq>
     </taskbody>
 </task>

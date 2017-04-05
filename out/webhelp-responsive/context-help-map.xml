@@ -2,4 +2,10 @@
 <map>
    <appContext helpID="c-breakfast" path="c-breakfast.html"/>
    <appContext helpID="t-hash" path="t-recipeone.html"/>
+   <appContext helpID="t-wrap" path="t-recipethree.html"/>
+   <appContext helpID="t-cakes" path="t-recipefour.html"/>
+   <appContext helpID="t-smoothie" path="t-recipetwo.html"/>
+   <appContext helpID="t-chai" path="t-chai.html"/>
+   <appContext helpID="references" path="t-references.html"/>
+   <appContext helpID="" path="t-clean.html"/>
 </map>
