@@ -1,18 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="Hashbrowns">
-    <title>Cauliflower Hash Browns </title>
-    <shortdesc>This twist on the classic potato hash browns will leave you feeling healthier while
-        still fueling your day full of energy. The addition of cauliflowr is unique and delicious,
-        but doesn't take away from the heartiness of the classic hash browns. </shortdesc>
+<task id="t-cakes">
+    <title>Quinoa Cakes</title>
+    <shortdesc>These crispy quinoa cakes are a twist on the traditional sausage patty found at
+        breakfast. These savory cakes are packed with fresh vegetables and will be great served hot
+        or room temperature. They are easily enjoyed alone or with a side of hash and a smoothie
+            <image href="patty.jpg" id="image_zp2_1vw_lz"/></shortdesc>
     <taskbody>
+        <prereq>Tools for this recipe include a mixing spoon, fine mesh strainer, tongs, oven mitts, a mixing bowl, measuring spoons, a vegetable grater, a baking pan, parchment paper and oven. The following ingredients will be needed: 
+            <ul>
+                <li audience="mom"> 1/4 cup diced, cooked ham</li>
+                <li audience="mom"> 1 tablespoon grated parmasean cheese</li>
+                <li audience="armando"> 1 tablespoon nutritional yeast </li>
+                <li> 2 tablespoons ground flax + 6 tablespoons water</li>
+                <li> 1 1/2 cups cooked quinoa</li>
+                <li> 1 cup destemmed, finely chopped kale</li>
+                <li> 1/2 cup grated sweet potato </li>
+                <li> 1/4 cup sunflower seeds</li>
+                <li> 1/4 cup fresh basil, finely chopped </li>
+                <li> 2 tablespoons finely diced onion </li>
+                <li> 1/4 cup finely chopped oil-packed sun-dried tomatoes</li>
+                <li> 1 tablespoon tahini paste</li>
+                <li> 1 1/2 teaspoon dried oregano leaves </li>
+                <li> 1 teaspoon salt </li>
+                <li> 1 teaspoon dried red pepper flakes</li>
+                <li> 3 tablespoons all-purpose flour</li>
+                <li conref="t-recipeone.dita#/garlic"/>
+            </ul>
+        </prereq>
         <context>
-            <p/>
+            <ul>
+                <li><b>Prep time: </b>25 minutes</li>
+                <li><b>Cook time: </b>25 minutes</li>
+                <li><b>Serves: </b>6, yiled 1 dozen cakes</li>
+            </ul>  
+            <p><b>Directions:</b></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Preheat oven to 400°F. Line a large baking sheet with parchment paper.</cmd>
             </step>
+            <step>
+                <cmd>Mix the ground flax and water in a small bowl and set aside for 5 minutes or so to thicken</cmd>
+            </step>
+            <step>
+                <cmd>Cook quinoa</cmd>
+                <substeps id="substeps_o4x_g5w_lz">
+                    <substep>
+                        <cmd>Rinse 1 cup uncooked quiona in a fine mesh strainer</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place quinoa in a medium pot and cover with 1 ½ cups water.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Bring to a boil then reduce heat to medium-low. Cover with lid and simmer for 15 minutes or until most of the water is abosrbed</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Remove from heat and fluff with a fork before placing lid back on to steam for 5 minutes off heat</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Extra quiona not used in this recipe can be stored in tupperware
+                            containers for one week</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step audience="mom">
+                <cmd>In a mixing bowl toss all ingredients together, including the thickened flax mixture, diced ham, parmasean cheese and 1 1/2 cups of cooked quinoa. Combine well</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>In a mixing bowl toss all ingredients together, including the thickened flax mixture, nutritional yeast and the 1 1/2 cups of cooked quinoa. Combine well</cmd>
+            </step>
+            <step>
+                <cmd>Shape mixture into 1/4-cup patties with wet hands. Pack tightly so they hold
+                    together better. Place on baking sheet.</cmd>
+                <substeps id="substeps_dqw_ltw_lz">
+                    <substep>
+                        <cmd>If the mixture is not forming into patties, add a dusting of flour to
+                            help bind the shape</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Bake for 15 minutes, then carefully flip with tongs cakes, and bake for another
+                    8-10 minutes until golden and firm. </cmd>
+            </step>
+            <step>
+                <cmd>Remove the baking sheet from the oven with oven mitts and turn oven off after use. </cmd> 
+            </step>
+            <step>
+                <cmd>Allow patties to cool for five minutes before enjoying </cmd>
+            </step>           
         </steps>
+        <result>You will be left with a soft and slightly firm patty that makes a great main breakfast dish that can be easily topped with condiments</result>
+        <postreq>Store leftovers in a container in the fridge for up to 5-6 days. To reheat, preheat a skillet over medium heat, add a bit of oil, and cook patties for about 3 minutes per side, or until heated through.</postreq>
     </taskbody>
 </task>
