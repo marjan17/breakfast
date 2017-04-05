@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-chai">
+    <title>Chai Latte</title>
+    <shortdesc>This rich and robust drink is full of many herbs and spices that will warm up the start to any day. Chai lattes are known for their comforting qualities and are easier to make than taking a trip down to your local barista <image href="smoothie.jpg" id="image_d43_4qw_lz"/></shortdesc>
+    <taskbody>
+        <prereq>Tools for this recipe include a pot, measuring cups, a fine mesh strainer and a spoon The following ingredients will be needed <ul>
+            <li audience="armando">1 cup almond milk</li>
+            <li audience="mom">1 cup whole milk milk</li>
+            <li audience="mom">2 tablespoons heavy cream</li>
+            <li>1 cup water </li>
+            <li>1/4 cup packed brown sugar </li>
+            <li>2 tablespoons loose leaf black tea </li>
+            <li>1 teaspoon cinnamon </li>
+            <li>1/2 teaspoon ground ginger</li>
+            <li>2 teaspoons vanilla extract </li>
+            <li>1/2 teasoon ground nutmeg</li>
+            <li>1/2 teaspoon ground allspice</li>
+            <li>2 whole cloves </li>
+        </ul>
+        </prereq>
+        <context>
+            <ul>
+                <li>Prep time: 2 minutes</li>
+                <li>Assembly time: 15 minutes</li>
+                <li>Serves: 1</li>
+            </ul>
+            <p>Directions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Place water into a pot and allow to come to a boil on high heat </cmd>
+            </step>
+            <step>
+                <cmd>Add the loose leaf tea, spices and sugar into the boiling water and reduce the
+                    heat to medium</cmd>
+            </step>
+            <step>
+                <cmd>Simmer for five minutes while stirring occaisionally with a spoon</cmd>
+            </step>
+            <step>
+                <cmd>Add the milk to the pot and allow the mixture to steep and simmer. Once the
+                    milk begins to bubble, remove the pot from the heat</cmd>
+            </step>
+            <step>
+                <cmd>Carefully strain the tea through the fine mesh strainer and into a mug to
+                    serve</cmd>
+            </step>
+        </steps>
+        <result> The latte will be warm, strong and well spiced. Remember to enjoy carefully. </result>
+    </taskbody>
+</task>
