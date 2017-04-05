@@ -6,6 +6,10 @@ In case you haven't spent a lot of time in the kitchen lately, or you're just ne
 
 **Mixing spoons** -drawer to the left of the oven 
 
+**Plastic wrap and foil** second drawer to the right of the oven 
+
+**Measuring cups and spoons** -drawer to the left of the oven
+
 **Oven mitts and potholders** -drawer to the right of the oven 
 
 **Pots and pans** -bottom cabinet underneath the microwave
@@ -21,14 +25,16 @@ In case you haven't spent a lot of time in the kitchen lately, or you're just ne
 
 **Plates** -Stading plate rack over the mircrowave 
 
+**Glasses and mugs** -Top cabinet above oven 
+
 ##Ingredients 
 ![All the ingredients needed to cook with can be found inside the kitchen](http://blog.blueapron.com/wp-content/uploads/2014/12/Breakfast-Casserole.jpg)
 
-**Fridge**- milk, eggs, butter, tofu, vegetables, fruits, 
+**Fridge**- milk, eggs, heavy cream, tofu, vegetables, fruits and turkey slices
 
-**Spice Rack**- pepper, salt, herbs,
+**Spice Rack**- pepper, salt, herbs, chai spices and nutritional yeast
 
-**Pantry**- bagels, potatoes, protein powder 
+**Pantry**- tortilla, potatos, salsa, quinoa, seeds and flax 
 
 
 
