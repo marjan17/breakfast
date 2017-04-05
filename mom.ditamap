@@ -17,8 +17,12 @@
   <topicref href="t-recipefour.dita" navtitle="Crispy Quinoa Cakes"></topicref>
  </topichead>
  
- <topichead navtitle="Beverage">
+ <topichead navtitle="Beverages">
   <topicref href="t-recipetwo.dita" navtitle="Kale and Strawberry Smoothie"></topicref>
+ </topichead>
+ 
+ <topichead navtitle="Beverages">
+  <topicref href="t-chai.dita" navtitle="Chai Latte"></topicref>
  </topichead>
  
  
@@ -30,6 +34,11 @@
  <topichead navtitle="Kitchen Navigation">
   <topicref href="t-location.md" navtitle="Kitchen Navigation"></topicref>
  </topichead>
+ 
+ <topichead navtitle="Cleaning">
+  <topicref href="t-clean.md" navtitle="Clean-up"></topicref>
+ </topichead>
+ 
 
  
 </map>
