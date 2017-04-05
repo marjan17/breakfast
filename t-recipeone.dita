@@ -14,7 +14,7 @@
             <li> 2 russet potatoes, washed and diced</li>
             <li> 1 red onion, chopped finely</li>
             <li> 1 green bell pepper, washed and chopped finely</li>
-            <li> 2 cloves of garlic, peeled and minced</li>
+            <li id="garlic"> 2 cloves of garlic, peeled and minced"</li>
             <li> 1 cup of frozen corn, defrosted</li>
             <li> 1/4 cup vegetable oil</li>
             <li> 3 tablespoons chopped parsley</li>
@@ -47,7 +47,7 @@
                 <cmd>Reduce the heat to low and sprinkle the parsley over the mixture and squeeze in desired amount of lemon juice </cmd> 
             </step>
             <step audience="mom">
-                <cmd>Crack the egg into the pan and stir around the hash quickly to distribute</cmd>
+                <cmd>Crack the egg into the pan and quicly stir around the hash to distribute</cmd>
             </step>
             <step audience="armando">
                 <cmd>Sprinkle with nutritional yeast.</cmd>

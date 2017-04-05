@@ -1,77 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t-scramble">
-    <title>Scrambled Eggs</title>
-    <shortdesc>Fluffy scrambled eggs are a filling breakfast that can be modified to every
-        individual taste preference. This omelet recipe is a classic that will be sure to energize
-        anyone in the morning.</shortdesc>
+<task id="t-wrap">
+    <title>Southwest Breakfast Wraps</title>
+    <shortdesc>These wraps are portable and easy to share. Enjoy them while reading the morning
+        paper, getting ready for work, or over the breakfast table with loved ones. Packed with a
+        variet of ingrediets, these wraps are customizable and fun to make.<image href="wrap.jpg" id="image_vqx_sqw_lz"/></shortdesc>
     <taskbody>
-        <prereq>
-            For this recipe you will need a skillet, a spatula and a knife. The following ingredients are required: 
-            <ul>
-                <li audience="armando">3/4 cups firm silken tofu, drained and gently patted dry</li>
-                <li audience="armando">2 tbsp Hummus</li>
-                <li audience="armando">2 large garlic cloves, minced</li>
-                <li audience="armando">2 tbsp nutritional yeast</li>
-                <li audience="armando">1/4 tsp paprika</li>
-                <li audience="armando">1 tsp cornstarch</li>
-                <li audience="mom">2 eggs</li>
-                <li audience="mom">2 tbsp water</li>
-                <li audience="mom">1 tsp butter</li>
-                <li>1 cup of veggies of choice</li>
-                <li  audience="mom">1/3 cup ham, finely chopped</li>
-                <li  audience="mom">1/3 cup shredded cheese</li>
-                <li conref="t-potatoes.dita#t-potatoes/saltpepper"></li>
-            </ul>
+        <prereq>Tools for this recipe include a colander, a mixing bowl, measuring spoons a vegetable grater, spatula and skillet. The following ingredients will be needed: 
+         <ul>
+            <li audience="mom">4 slices of deli turkey breast</li>
+            <li audience="mom"> 2 tablespoons grated cheddar cheese</li>
+            <li audience="armando"> 1/4 cup diced tofu, drained and diced</li>
+            <li> 1 russet potato, washed and grated through large holes of vegetable grater</li>
+            <li> 1 small yellow onion, chopped finely</li>
+            <li> 2 large corn tortillas </li>
+            <li> 2 tablespoons of store-bought salsa</li>
+            <li> 1/4 cup of canned black beans, washed and drained</li>
+            <li> 2 teaspoons vegetable oil</li>
+            <li> 1 teaspoon salt </li>
+            <li conref="t-recipeone.dita#/garlic"/>
+            <li conref="t-recipeone.dita#/lemon"/>
+        </ul>
         </prereq>
         <context>
             <ul>
-                <li><b>Prep time: 5 minutes</b></li>
-                <li><b>Cook time: 10-15 minutes</b></li>
-                <li><b>Serves: 1</b></li>
-            </ul>             
-            <p><b>Directions:</b></p>    
+                <li><b>Prep time: </b>25 minutes</li>
+                <li><b>Cook time: </b>20 minutes</li>
+                <li><b>Serves: </b>1</li>
+            </ul>  
+            <p><b>Directions:</b></p>
         </context>
         <steps>
             <step>
-                <cmd>Preheat oven to 375 degrees F</cmd>
+                <cmd>Heat vegetable oil in a skillet on medium-high heat</cmd>
             </step>
             <step audience="mom">
-                <cmd>Beat eggs, water, salt and pepper in small bowl until blended</cmd>
-            </step>
-            <step>
-                <cmd>Heat butter in a small-to-medium, oven-safe skillet over medium heat. Tilt pan to coat bottom</cmd>
+                <cmd>In a mixing bowl, toss together the grated potatoes, chopped yellow onion, minced garlic, salsa, black beans, salt and pepper</cmd>
             </step>
             <step audience="armando">
-                <cmd>Prep veggies, drain and dry tofu, and mince garlic. Set aside</cmd>
-            </step>
-            <step audience="armando">
-                <cmd>Heat a small-to-medium, oven-safe skillet over medium heat. Once hot, add olive oil and minced garlic and cook for 1-2 minutes or until just lightly golden brown</cmd>
-            </step>
-            <step audience="armando">
-                <cmd>Transfer garlic to food processor, along with remaining omelet ingredients (tofu – cornstarch) and mix to combine, scraping down sides as needed. Add just a touch of water to thin, 1-2 tbsp at most. Set aside</cmd>
+                <cmd>In a mixing bowl, toss together the grated potatoes, chopped yellow onion, minced garlic, salsa, black beans, tofu, salt and pepper.</cmd>
             </step>
             <step>
-                <cmd>Add the veggies to the skillet. Season with salt and pepper and sauté to desired doneness</cmd>
+                <cmd>Add the mixture to the heated pan and cook for 15 minutes over medium-high heat, stirring occasionally.</cmd>
             </step>
             <step>
-                <cmd>Pour in the omelette batter and cook over medium heat on the stove top for 5 minutes until the edges start to dry</cmd>
+                <cmd>Turn the heat off the pan and allow the mixture to cool </cmd> 
+            </step>
+            <step audience="mom">
+                <cmd>Layer slices of deli turkey on to a flat corn tortilla and sprinkle cheddar cheese over the turkey</cmd>
             </step>
             <step>
-                <cmd>Place skillet in oven and bake until dry and deep golden brown – 10-15 minutes. The longer it bakes the less soft/wet it will be, so if you prefer a more “well done” omelet, cook closer to 15 or more</cmd>
+                <cmd>Spoon the cooled potato mixture on to the center of the tortilla </cmd> 
             </step>
             <step>
-                <cmd>Carefully remove from oven with oven mitt and fold over gently with a spatula. If it doesn’t want to fold, you can serve it scrambled!</cmd>
+                <cmd>Fold the left end of the tortilla towards the center and then fold the right end over </cmd>
             </step>
-            <step id="serve">
-                <cmd>Serve with desired toppings and enjoy!</cmd>
+            <step>
+                <cmd>Roll the bottom (the end nearest you)up towards the top and continue rolling until sealed </cmd>
             </step>
+            
         </steps>
-        <result>You should expect a full stomach after enjoying this wholesome omelette!<fig><image href="images/omelette.jpg"></image></fig></result>
-        <postreq>If you're still not full, follow the recipe link below to make some potatoes to go along with your omelette!
-        </postreq>
+        <result>You will be left with a warm and filling wrap that can be taken anywhere your day goes.</result>
+        <postreq>This recipe makes two servings. Extra wraps can be stored with aluminum foil for snacking later</postreq>
     </taskbody>
-    <related-links>
-        <link href="t-potatoes.dita"></link>
-    </related-links>
 </task>
