@@ -3,11 +3,27 @@
 <map>
  <title>Mom's Recipe Guide</title>
  
- 
  <topicref href="c-breakfast.dita" navtitle="Welcome"/>
  
- <topichead navtitle="Side Dishes">
-  <topicref href="t-recipeone.dita" navtitle="Hearty Hash"/>
+ <topichead navtitle="Side Dish">
+  <topicref href="t-recipeone.dita" navtitle="Hearty Breakfast Hash"/>
+ </topichead>
+ 
+ <topichead navtitle="Main Dishes">
+  <topicref href="t-recipethree.dita" navtitle="Southwest Breakfast Wraps"></topicref>
+ </topichead>
+ 
+ <topichead navtitle="Main Dishes">
+  <topicref href="t-recipefour.dita" navtitle="Crispy Quinoa Cakes"></topicref>
+ </topichead>
+ 
+ <topichead navtitle="Beverage">
+  <topicref href="t-recipetwo.dita" navtitle="Kale and Strawberry Smoothie"></topicref>
+ </topichead>
+ 
+ 
+ <topichead navtitle="References">
+  <topicref href="t-recipetwo.dita" navtitle="Kale and Strawberry Smoothie"></topicref>
  </topichead>
 
  

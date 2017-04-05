@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
-<topic id="topic_u1y_hnq_kz">
+<topic id="references">
   <title>Recipe References</title>
   <shortdesc>The recipes provided have been modified for each user. To learn more about the recipes
-    used in today's breafast guide, visit the following links below: <image href="recipes.jpg"
-    /></shortdesc>
+        used in today's breafast guide, visit the following links below: <image href="sources.jpg"
+        /></shortdesc>
   <body>
-    <p>Scrambled Eggs: <xref href="http://www.incredibleegg.org/recipe/basic-scrambled-eggs/"
+      <p>Southwest Breakfast Wraps: <xref href="http://www.tasteofhome.com/recipes/southwest-breakfast-wraps"
         format="html" scope="external"/></p>
-    <p>Smoothie:<xref href="http://www.builtlean.com/2012/12/19/kale-smoothie-recipe/" format="html"
+      <p>Kale and Strawberry Smoothie:<xref href="http://www.organizeyourselfskinny.com/2013/11/25/strawberry-kale-green-smoothie/"
         scope="external"/></p>
-    <p>Cauliflower Hashbrowns: <xref
-        href="http://www.delish.com/cooking/recipe-ideas/recipes/a52085/cauliflower-hash-browns-recipes/"
+    <p>Crispy Quinoa Cakes: <xref
+        href="http://ohsheglows.com/2014/08/13/crispy-quinoa-cakes-vegan-gluten-free-nut-free/"
         format="html" scope="external"/></p>
-    <p>Bagels: <xref href="http://www.myrecipes.com/recipe/cream-cheese-smoked-salmon-bagel"
+      <p>Hearty Breakfast Hash: <xref href="http://www.epicurious.com/expert-advice/how-to-make-breakfast-hash-without-a-recipe-article"
         format="html" scope="external"/></p>
   </body>
 </topic>
