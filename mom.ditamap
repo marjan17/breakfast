@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map audience="mom">
  <title>Mom's Recipe Guide</title>
  
  <topicref href="c-breakfast.dita" navtitle="Welcome"/>
@@ -23,7 +23,12 @@
  
  
  <topichead navtitle="References">
-  <topicref href="t-recipetwo.dita" navtitle="Kale and Strawberry Smoothie"></topicref>
+  <topicref href="t-references.dita" navtitle="Recipe Sources"></topicref>
+ </topichead>
+ 
+ 
+ <topichead navtitle="Kitchen Navigation">
+  <topicref href="t-location.md" navtitle="Kitchen Navigation"></topicref>
  </topichead>
 
  
